@@ -1,0 +1,25 @@
+From 683938f159fa326258664347a53cb80ce5c4d2b9 Mon Sep 17 00:00:00 2001
+From: joshika <joshika.mahendrababu@psiog.com>
+Date: Wed, 24 Sep 2025 17:50:19 +0530
+Subject: [PATCH 1/2] inside the footer in p
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 029f46f..41713de 100644
+--- a/index.html
++++ b/index.html
+@@ -8,7 +8,7 @@
+   <h1>Hello World</h1> 
+   <p>This is a sample project.</p> 
+   <p>hello this is master joshika</p>
+-  <p> this p tag is added in the feature-about</p>
++  <p> this p tag is added in the footer</p>
+   <div>
+     <h6> dummy commit </h6>
+   </div>
+-- 
+2.50.1.windows.1
+

@@ -1,0 +1,25 @@
+From 9f47cefa23e35853bdf79ad0d0b11e678034333f Mon Sep 17 00:00:00 2001
+From: joshika <joshika.mahendrababu@psiog.com>
+Date: Thu, 25 Sep 2025 21:47:39 +0530
+Subject: [PATCH 2/2] cherry-new
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 41713de..bdbd71b 100644
+--- a/index.html
++++ b/index.html
+@@ -2,7 +2,7 @@
+ <!DOCTYPE html> 
+ <html> 
+ <head> 
+-  <title>My Project</title> 
++  <title>this is only for cherry-new</title> 
+ </head> 
+ <body> 
+   <h1>Hello World</h1> 
+-- 
+2.50.1.windows.1
+
